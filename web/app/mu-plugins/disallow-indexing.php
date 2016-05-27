@@ -3,11 +3,11 @@
  * Plugin Name:  Disallow Indexing
  * Description:  Disallow indexing of your site on non-production environments.
  * Version:      1.0.0
- * Author:       Decisionary Tech
- * Author URI:   http://decisionarytech.com
+ * Author:       Roots
+ * Author URI:   https://roots.io
  * License:      MIT License
  *
- * @package      Bedrock\Plugin\Disallow_Indexing
+ * @package      Bedrock\Disallow_Indexing
  */
 
 if ( WP_ENV !== 'production' && ! is_admin() ) {

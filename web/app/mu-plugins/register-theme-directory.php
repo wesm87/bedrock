@@ -3,11 +3,11 @@
  * Plugin Name:  Register Theme Directory
  * Description:  Register default theme directory
  * Version:      1.0.0
- * Author:       Decisionary Tech
- * Author URI:   http://decisionarytech.com
+ * Author:       Roots
+ * Author URI:   https://roots.io
  * License:      MIT License
  *
- * @package      Bedrock\Plugin\Register_Theme_Directory
+ * @package      Bedrock\Register_Theme_Directory
  */
 
 if ( ! defined( 'WP_DEFAULT_THEME' ) ) {
